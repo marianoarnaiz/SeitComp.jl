@@ -2,7 +2,7 @@
 Julia software to model geophysical parameters with petrological constrains
 
 Manual for SEITCOMP V α.0
-Mariano S. Arnaiz-Rodríguez (mararnai@ucm.es or marianoarnaiz@gmail.com)
+Mariano S. Arnaiz-Rodríguez (mararnai@ucm.es or mararnai@ipgp.fr)
 Javier Fullea
 Universidad Complutense de Madrid
 2021.
